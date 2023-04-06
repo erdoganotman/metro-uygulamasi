@@ -1,0 +1,34 @@
+C:\Users\erdog\source\repos\metrouygulaması\metrouygulaması\bin\Debug\net6.0-windows\metrouygulaması.exe
+C:\Users\erdog\source\repos\metrouygulaması\metrouygulaması\bin\Debug\net6.0-windows\metrouygulaması.deps.json
+C:\Users\erdog\source\repos\metrouygulaması\metrouygulaması\bin\Debug\net6.0-windows\metrouygulaması.runtimeconfig.json
+C:\Users\erdog\source\repos\metrouygulaması\metrouygulaması\bin\Debug\net6.0-windows\metrouygulaması.dll
+C:\Users\erdog\source\repos\metrouygulaması\metrouygulaması\bin\Debug\net6.0-windows\ref\metrouygulaması.dll
+C:\Users\erdog\source\repos\metrouygulaması\metrouygulaması\bin\Debug\net6.0-windows\metrouygulaması.pdb
+C:\Users\erdog\source\repos\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.Form1.resources
+C:\Users\erdog\source\repos\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.csproj.GenerateResource.cache
+C:\Users\erdog\source\repos\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdog\source\repos\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.AssemblyInfoInputs.cache
+C:\Users\erdog\source\repos\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.AssemblyInfo.cs
+C:\Users\erdog\source\repos\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.csproj.CoreCompileInputs.cache
+C:\Users\erdog\source\repos\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.dll
+C:\Users\erdog\source\repos\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\ref\metrouygulaması.dll
+C:\Users\erdog\source\repos\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.pdb
+C:\Users\erdog\source\repos\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.genruntimeconfig.cache
+C:\Users\erdog\source\repos\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.csproj.AssemblyReference.cache
+C:\Users\erdog\OneDrive\Masaüstü\MY PROJECT\metrouygulaması\metrouygulaması\bin\Debug\net6.0-windows\metrouygulaması.exe
+C:\Users\erdog\OneDrive\Masaüstü\MY PROJECT\metrouygulaması\metrouygulaması\bin\Debug\net6.0-windows\metrouygulaması.deps.json
+C:\Users\erdog\OneDrive\Masaüstü\MY PROJECT\metrouygulaması\metrouygulaması\bin\Debug\net6.0-windows\metrouygulaması.runtimeconfig.json
+C:\Users\erdog\OneDrive\Masaüstü\MY PROJECT\metrouygulaması\metrouygulaması\bin\Debug\net6.0-windows\metrouygulaması.dll
+C:\Users\erdog\OneDrive\Masaüstü\MY PROJECT\metrouygulaması\metrouygulaması\bin\Debug\net6.0-windows\metrouygulaması.pdb
+C:\Users\erdog\OneDrive\Masaüstü\MY PROJECT\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.csproj.AssemblyReference.cache
+C:\Users\erdog\OneDrive\Masaüstü\MY PROJECT\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.Form1.resources
+C:\Users\erdog\OneDrive\Masaüstü\MY PROJECT\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.csproj.GenerateResource.cache
+C:\Users\erdog\OneDrive\Masaüstü\MY PROJECT\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdog\OneDrive\Masaüstü\MY PROJECT\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.AssemblyInfoInputs.cache
+C:\Users\erdog\OneDrive\Masaüstü\MY PROJECT\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.AssemblyInfo.cs
+C:\Users\erdog\OneDrive\Masaüstü\MY PROJECT\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.csproj.CoreCompileInputs.cache
+C:\Users\erdog\OneDrive\Masaüstü\MY PROJECT\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.dll
+C:\Users\erdog\OneDrive\Masaüstü\MY PROJECT\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\refint\metrouygulaması.dll
+C:\Users\erdog\OneDrive\Masaüstü\MY PROJECT\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.pdb
+C:\Users\erdog\OneDrive\Masaüstü\MY PROJECT\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\metrouygulaması.genruntimeconfig.cache
+C:\Users\erdog\OneDrive\Masaüstü\MY PROJECT\metrouygulaması\metrouygulaması\obj\Debug\net6.0-windows\ref\metrouygulaması.dll
